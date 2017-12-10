@@ -5,5 +5,5 @@ package com.example.c4q.myjson;
  */
 
 public class Constants {
-    public static final String value="{myFellows:[wayne,anas,Vivian,mel]}";
+    public static final String value="{myFellows:[wayne,anas,Vivian,mel,Bryant,Amy,volha,Chantal,AJ,Neima,Tariqua,Raheel,amar,joanne,yoki, murad, daniel,Ashley,Matin,jervon,Darnell,anne]}";
 }
